@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/FuelHunterBot/v16
+/FuelHunterBot/bin
+/FuelHunterBot/obj
+/FuelHunterBot/publish
+/FuelHunterBot/Properties/PublishProfiles
